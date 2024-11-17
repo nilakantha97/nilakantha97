@@ -30,5 +30,5 @@
 - **Email:** [nilakantha97@gmail.com](mailto:nilakantha97@gmail.com)
 
 ## 🌟 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilakantha97&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilakantha97&layout=compact&theme=radical)
