@@ -1,5 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Nilakantha!
 
+![Banner Image](https://path-to-your-banner-image/data_to_confess_insights.png)
 <div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 ## About Me
@@ -32,4 +33,4 @@
 ## 🌟 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilakantha97&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilakantha97&layout=compact&theme=radical)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=nilakantha97.nilakantha97)
+![Visitor Count](<img src="https://komarev.com/ghpvc/?username=nilakantha97&style=flat-square&color=blue" alt=""/>)
