@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Nilakantha!
 
-<!--
-**nilakantha97/nilakantha97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](path-to-your-banner-image)
 
-Here are some ideas to get you started:
+## About Me
+🎓 **Education:** Bachelor of Technology in Computer Science and Engineering  
+💼 **Current Role:** Aspiring Data Analyst  
+🔍 **Learning:** Data Analysis through Codebasics  
+🌱 **Passionate About:** Data Science, Analytics, and Visualization  
+💬 **Ask Me About:** Data Analysis, Tech, and Innovative Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-3B6DB0?style=for-the-badge&logo=powerquery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- **Data Analysis:** Excel, Power BI, Power Query
+- **Programming Languages:** Python, SQL, Java
+- **Tools & Technologies:** Pandas, NumPy, Matplotlib, Jupyter Notebook
+- **Other Skills:** Data Cleaning, Data Visualization, Statistical Analysis
+
+## 📊 Projects
+
+
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilakantha97)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilakantha97)
+- **Email:** [nilakantha97@gmail.com](mailto:nilakantha97@gmail.com)
+
+## 🌟 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
