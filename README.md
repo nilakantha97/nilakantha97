@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nilakantha!
 
-![Banner Image]([path-to-your-banner-image](https://github.com/nilakantha97/nilakantha97/blob/main/data_to_confess_insights.png)])
+![Banner Image]([data_to_confess_insights.png])
 
 ## About Me
 🎓 **Education:** Bachelor of Technology in Computer Science and Engineering  
