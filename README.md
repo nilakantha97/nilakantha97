@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nilakantha!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Nilakantha!
 
-![Banner Image]([data_to_confess_insights.png])
+<div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
 ## About Me
 🎓 **Education:** Bachelor of Technology in Computer Science and Engineering  
@@ -32,3 +32,4 @@
 ## 🌟 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilakantha97&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilakantha97&layout=compact&theme=radical)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=nilakantha97.nilakantha97)
