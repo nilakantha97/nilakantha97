@@ -1,7 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Nilakantha!
 
-![Banner Image](https://path-to-your-banner-image/data_to_confess_insights.png)
-<div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> </div>
 
 ## About Me
 🎓 **Education:** Bachelor of Technology in Computer Science and Engineering  
