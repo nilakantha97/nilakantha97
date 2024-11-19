@@ -22,14 +22,12 @@
 - **Other Skills:** Data Cleaning, Data Visualization, Statistical Analysis
 
 ## 📊 Projects
-
+- **[Excel Sales Analytics](https://github.com/nilakantha97/Excel-Sales-Analytics):** Comprehensive sales analysis project using Excel for data visualization
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilakantha97)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nilakantha97)
-- **Email:** [nilakantha97@gmail.com](mailto:nilakantha97@gmail.com)
 
 ## 🌟 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilakantha97&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilakantha97&layout=compact&theme=radical)
-![Visitor Count](<img src="https://komarev.com/ghpvc/?username=nilakantha97&style=flat-square&color=blue" alt=""/>)
+
