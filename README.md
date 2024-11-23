@@ -1,6 +1,9 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, I'm Nilakantha!
 
-<div align="center"> <img src="https://github.com/nilakantha97/nilakantha97/blob/main/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="600" height="300"/> </div>
+<div align="center">
+  <img src="https://github.com/nilakantha97/nilakantha97/blob/main/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" height="300"/>
+  <img src="https://github.com/nilakantha97/nilakantha97/blob/main/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" height="300"/> 
+</div>
 
 ## About Me
 🎓 **Education:** Bachelor of Technology in Computer Science and Engineering  
